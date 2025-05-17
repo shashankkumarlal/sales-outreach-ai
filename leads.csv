@@ -1,1 +1,6 @@
 leads.csv file
+
+name	email	company	product	pain_points	tone
+John Doe	ayushojha2721@gmail.com	Example Inc	Our Product	slow process	friendly
+anikethi	anikethbhosale11@gmail.com	Smith LLC	Our Product	high cost	professional
+Carol Lee	carol@example.com	Startup Hub	manual follow-ups, lost leads	AutoCRM	casual
